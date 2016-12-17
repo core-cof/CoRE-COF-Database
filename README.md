@@ -1,19 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to CoRE COF Database!
 
-You can use the [structure file](https://github.com/core-cof/tttt/) to maintain and preview the content for your website in Markdown files.
+You can find solvent-free and disorder-free structure files of most experimental COFs published on literature here. Specially, COFs reported without the atomic coordinate files are constructed following the structure information provided in the corresponding synthetic studies.
+All the [structure file](https://github.com/core-cof/tttt/) are solvent-free and disorder-free, being suitable for direct use as input files in simulations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Reference
 
-### Markdown
+Evaluating Covalent Organic Frameworks for Noble Gas Separations. M. Tong, Y. Lan, Q. Yang, C. Zhong. **Submitted**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+### Financial Support
+The database was supported by the National Key Basic Research Program of China (“973”) (No. 2013CB733503), the Natural Science Foundation of China (Nos. 21136001, 21536001, 21276009 and 21322603)
 
 - Bulleted
 - List
