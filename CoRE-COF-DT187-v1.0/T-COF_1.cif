@@ -1,0 +1,98 @@
+data_T-COF_1
+_audit_creation_date              2016-12-13
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_symmetry_cell_setting            triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a                    14.5584
+_cell_length_b                    14.5584
+_cell_length_c                    3.5000
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 120.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+O1     O     0.70968   0.26473   0.50000   0.00000  Uiso   1.00
+O2     O     0.73527   0.44495   0.50000   0.00000  Uiso   1.00
+O3     O     0.55505   0.29032   0.50000   0.00000  Uiso   1.00
+O4     O     0.26473   0.70968   0.50000   0.00000  Uiso   1.00
+O5     O     0.44495   0.73527   0.50000   0.00000  Uiso   1.00
+O6     O     0.29032   0.55505   0.50000   0.00000  Uiso   1.00
+B7     B     0.78179   0.37775   0.50000   0.00000  Uiso   1.00
+B8     B     0.62225   0.40404   0.50000   0.00000  Uiso   1.00
+B9     B     0.59596   0.21821   0.50000   0.00000  Uiso   1.00
+B10    B     0.37775   0.78179   0.50000   0.00000  Uiso   1.00
+B11    B     0.40404   0.62225   0.50000   0.00000  Uiso   1.00
+B12    B     0.21821   0.59596   0.50000   0.00000  Uiso   1.00
+C13    C     0.89959   0.42032   0.50000   0.00000  Uiso   1.00
+C14    C     0.57968   0.47927   0.50000   0.00000  Uiso   1.00
+C15    C     0.47927   0.57968   0.50000   0.00000  Uiso   1.00
+C16    C     0.52073   0.10041   0.50000   0.00000  Uiso   1.00
+C17    C     0.42032   0.89959   0.50000   0.00000  Uiso   1.00
+C18    C     0.10041   0.52073   0.50000   0.00000  Uiso   1.00
+S19    S    -0.00000   0.55401   0.50000   0.00000  Uiso   1.00
+S20    S     0.44599   0.44599   0.50000   0.00000  Uiso   1.00
+S21    S     0.55401   0.00000   0.50000   0.00000  Uiso   1.00
+C22    C     0.94475   0.35530   0.50000   0.00000  Uiso   1.00
+C23    C     0.64470   0.58945   0.50000   0.00000  Uiso   1.00
+C24    C     0.41055   0.05525   0.50000   0.00000  Uiso   1.00
+C25    C     0.35530   0.94475   0.50000   0.00000  Uiso   1.00
+C26    C     0.58945   0.64470   0.50000   0.00000  Uiso   1.00
+C27    C     0.05525   0.41055   0.50000   0.00000  Uiso   1.00
+H28    H     0.90063   0.27411   0.50000   0.00000  Uiso   1.00
+H29    H     0.72589   0.62653   0.50000   0.00000  Uiso   1.00
+H30    H     0.37347   0.09937   0.49999   0.00000  Uiso   1.00
+H31    H     0.27411   0.90063   0.50000   0.00000  Uiso   1.00
+H32    H     0.62653   0.72589   0.50000   0.00000  Uiso   1.00
+H33    H     0.09937   0.37347   0.50000   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+O1     B7      1.443   .     S
+O1     B9      1.442   .     S
+O2     B8      1.443   .     S
+O2     B7      1.442   .     S
+O3     B9      1.443   .     S
+O3     B8      1.442   .     S
+O4     B12     1.442   .     S
+O4     B10     1.443   .     S
+O5     B11     1.443   .     S
+O5     B10     1.442   .     S
+O6     B11     1.442   .     S
+O6     B12     1.443   .     S
+B7     C13     1.504   .     S
+B8     C14     1.504   .     S
+B9     C16     1.504   .     S
+B10    C17     1.504   .     S
+B11    C15     1.504   .     S
+B12    C18     1.504   .     S
+C13    C22     1.397   .     S
+C14    S20     1.755   .     S
+C14    C23     1.397   .     S
+C15    C26     1.397   .     S
+C15    S20     1.755   .     S
+C16    C24     1.397   .     S
+C16    S21     1.755   .     S
+C17    C25     1.397   .     S
+C18    C27     1.397   .     S
+C18    S19     1.755   .     S
+C22    H28     1.025   .     S
+C23    H29     1.025   .     S
+C23    C26     1.393   .     S
+C24    H30     1.025   .     S
+C25    H31     1.025   .     S
+C26    H32     1.025   .     S
+C27    H33     1.025   .     S
