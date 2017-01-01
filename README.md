@@ -9,5 +9,5 @@ All the [structure file](https://github.com/core-cof/tttt/) are solvent-free and
 ### Financial Support
 This work was supported by the Natural Science Foundation of China (Nos. 21536001, 21136001,
 21322603 and 21276009) and the National Key Basic Research Program of China (“973”) (No.
-2013CB733503)
+2013CB733503).
 
