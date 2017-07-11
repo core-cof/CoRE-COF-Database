@@ -4,7 +4,7 @@ You can find solvent-free and disorder-free structure files of nearly all the ex
 All the [structure file](https://github.com/core-cof/tttt/) are solvent-free and disorder-free, being suitable for direct use as input files for computational purpose.
 
 ### Reference
-
+Minman Tong, Youshi Lan, Qingyuan Yang, and Chongli Zhong, Exploring the structure-property relationships of covalent organic frameworks for noble gas separations. ***Chem. Eng. Sci.*** 2017, 168, 456-464. 
 
 ### Financial Support
 This work was supported by the Natural Science Foundation of China (Nos. 21536001, 21136001,
