@@ -1,0 +1,34 @@
+data_CTF-0
+_audit_creation_date              0000-00-00
+_audit_creation_method            'LanYouShi'
+_symmetry_space_group_name_H-M    'P1'
+_cell_length_a                    7.3000002
+_cell_length_b                    7.3000002
+_cell_length_c                    3.3000000
+_cell_angle_alpha                 90.0000000
+_cell_angle_beta                  90.0000000
+_cell_angle_gamma                 120.0000000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+        C1          C  0.1122227  0.5561136  0.5000000    0.00000       Uiso       1.00
+        C2          C  0.2233762  0.7766256  0.5000000    0.00000       Uiso       1.00
+        C3          C  0.5594778  0.4405121  0.5000000    0.00000       Uiso       1.00
+        N1          N  0.4530950  0.2265510  0.5000000    0.00000       Uiso       1.00
+        C4          C  0.4438864  0.5561091  0.5000000    0.00000       Uiso       1.00
+        C5          C  0.2233744  0.4467506  0.5000000    0.00000       Uiso       1.00
+        C6          C  0.5594879  0.1189657  0.5000000    0.00000       Uiso       1.00
+        N2          N  0.7734490  0.2265440  0.5000000    0.00000       Uiso       1.00
+        C7          C  0.4438909  0.8877773  0.5000000    0.00000       Uiso       1.00
+        C8          C  0.5532494  0.7766237  0.5000000    0.00000       Uiso       1.00
+        C9          C  0.8810342  0.4405221  0.5000000    0.00000       Uiso       1.00
+        N3          N  0.7734560  0.5469050  0.5000000    0.00000       Uiso       1.00
+        H1          H  0.1377359  0.8622682  0.4999955    0.00000       Uiso       1.00
+        H2          H  0.7245318  0.8622636  0.4999996    0.00000       Uiso       1.00
+        H3          H  0.1377319  0.2754679  0.4999998    0.00000       Uiso       1.00
