@@ -1,0 +1,37 @@
+data_C2N-h2D
+_audit_creation_date              0000-00-00
+_audit_creation_method            'LanYouShi'
+_symmetry_space_group_name_H-M    'P1'
+_cell_length_a                    8.3817997
+_cell_length_b                    8.3817997
+_cell_length_c                    3.4920001
+_cell_angle_alpha                 90.0000000
+_cell_angle_beta                  90.0000000
+_cell_angle_gamma                 120.0000000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+        C1          C  0.8352190  0.3329420  0.4999980    0.00000       Uiso       1.00
+        C2          C  0.6670620  0.5022790  0.4999980    0.00000       Uiso       1.00
+        C3          C  0.4977260  0.1647850  0.4999980    0.00000       Uiso       1.00
+        C4          C  0.1647850  0.6670620  0.4999980    0.00000       Uiso       1.00
+        C5          C  0.3329420  0.4977260  0.4999980    0.00000       Uiso       1.00
+        C6          C  0.5022790  0.8352190  0.4999980    0.00000       Uiso       1.00
+        C7          C  0.3329420  0.8352190  0.4999980    0.00000       Uiso       1.00
+        C8          C  0.5022790  0.6670620  0.4999980    0.00000       Uiso       1.00
+        C9          C  0.1647850  0.4977260  0.4999980    0.00000       Uiso       1.00
+       C10          C  0.6670620  0.1647850  0.4999980    0.00000       Uiso       1.00
+       C11          C  0.4977260  0.3329420  0.4999980    0.00000       Uiso       1.00
+       C12          C  0.8352190  0.5022790  0.4999980    0.00000       Uiso       1.00
+       N13          N  0.3383310  0.3383310  0.4999980    0.00000       Uiso       1.00
+       N14          N  0.6616730  0.0000020  0.4999980    0.00000       Uiso       1.00
+       N15          N  0.0000020  0.6616730  0.4999980    0.00000       Uiso       1.00
+       N16          N  0.6616730  0.6616730  0.4999980    0.00000       Uiso       1.00
+       N17          N  0.3383310  0.0000020  0.4999980    0.00000       Uiso       1.00
+       N18          N  0.0000020  0.3383310  0.4999980    0.00000       Uiso       1.00
